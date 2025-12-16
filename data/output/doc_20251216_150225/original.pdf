@@ -1,0 +1,24 @@
+EXTRATO BANCÁRIO - CONTA CORRENTE
+
+Cliente: João Silva
+Conta: 12345-6
+Agência: 0789
+Período: 01/01/2024 a 31/01/2024
+
+DATA        DESCRIÇÃO                           VALOR (R$)
+01/01/2024  Saldo Anterior                      1.500,00
+05/01/2024  Depósito                            500,00
+10/01/2024  Supermercado Extra                  -250,75
+15/01/2024  Pagamento Fatura Cartão             -1.200,00
+20/01/2024  Transferência Recebida              800,00
+25/01/2024  Restaurante Sabor Mineiro           -89,90
+31/01/2024  Saldo Final                         1.259,35
+
+INFORMAÇÕES IMPORTANTES:
+• Este é um documento de teste para o Document Processor
+• Use para validar extração de texto e tabelas
+• Teste também com imagens JPG/PNG
+
+CNPJ: 12.345.678/0001-90
+Telefone: (11) 99999-9999
+Email: teste@exemplo.com
