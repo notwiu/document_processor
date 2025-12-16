@@ -84,5 +84,5 @@ Projetado para quem precisa **ganhar tempo**, **reduzir erros manuais** e **padr
 
 ### 1️⃣ Clonar o projeto
 ```bash
-git clone https://github.com/seu-usuario/docflow-pro.git
+git clone https://github.com/notwiu/document_processor
 cd docflow-pro
